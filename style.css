@@ -434,7 +434,7 @@ a {
     background-color: transparent;
     border: none;
     margin: 0 auto;
-    background-image: url(../img/Shape\ 5.png);
+    background-image: url(img/Shape5.png);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -442,7 +442,7 @@ a {
 
 
 .footer-btn:hover {
-    background-image: url(../img/Shape\ 6.png);
+    background-image: url(img/Shape6.png);
     cursor: pointer;
     transition: .4s background-image ease-in-out;
 }
