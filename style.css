@@ -448,7 +448,7 @@ a {
 }
 
 .footer-btn:focus {
-    background-image: url(../img/Shape\ 6.png);
+    background-image: url(img/Shape6.png);
     cursor: pointer;
     transition: .4s background-image ease-in-out;
 }
